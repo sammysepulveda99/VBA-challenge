@@ -56,5 +56,4 @@ For i = 2 To LastRow
 
 'close loop
 Next i
-
 End Sub
